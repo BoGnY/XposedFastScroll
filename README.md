@@ -1,5 +1,5 @@
 # XposedFastScroll
-Xposed mod to force all ListView's to use FastScroll feature [based on hamzahrmalik's Force FastScroll: https://github.com/hamzahrmalik/ForceFastscroll]
+Xposed mod to force all ListViews to use FastScroll feature [based on hamzahrmalik's Force FastScroll: https://github.com/hamzahrmalik/ForceFastscroll]
 
 This MOD will force all ListViews to use FastScroll!
 FastScroll is a feature built into Android that allows you to drag the scrollbar thus allowing you to quickly scroll!
